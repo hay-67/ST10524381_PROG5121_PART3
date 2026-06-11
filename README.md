@@ -153,9 +153,10 @@ Contains JUnit tests for:
 * Longest Stored Message
 * Search by Message ID
 * Search by Recipient
-  
+* Delete by Hash
+* Message Report Generation
+
+ 
 ## YouTube Link
 https://youtu.be/zjOEqIIVYO8
 
-* Delete by Hash
-* Message Report Generation
