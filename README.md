@@ -41,7 +41,7 @@ The user can register for an account using a:
 
 ### User Login
 
-Registered users can login using their username and password.
+Registered users can login using their username and password
 
 ### Messaging
 
