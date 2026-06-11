@@ -151,10 +151,11 @@ Contains JUnit tests for:
 * Send Message Options
 * Sent Message Array Population
 * Longest Stored Message
-
-## YouTube Link
-https://youtu.be/zjOEqIIVYO8
 * Search by Message ID
 * Search by Recipient
+  
+## YouTube Link
+https://youtu.be/zjOEqIIVYO8
+
 * Delete by Hash
 * Message Report Generation
